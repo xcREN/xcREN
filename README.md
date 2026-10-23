@@ -1,8 +1,8 @@
-# xcREN
+# atlas_ren
 
 I build websites and small tools for everyday life — from personal web design to playful learning experiences.
 
-你好，我是 xcREN。
+你好，我是 atlas_ren。
 
 这里记录我的网页设计与小工具实践：个人网站、儿童学习应用，以及方便家庭使用的活动页面。希望把日常里的小需求，做成清楚、好用、可以持续改进的作品。
 
